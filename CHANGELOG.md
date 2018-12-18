@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file, in reverse 
 ### Added
 
 - [#9](https://github.com/zendframework/zend-expressive-authentication-zendauthentication/pull/9)
-  introduces the usage of zend-expressive-authentication ^ 1.0.
+  introduces the usage of zend-expressive-authentication ^1.0.
 
 ### Changed
 
